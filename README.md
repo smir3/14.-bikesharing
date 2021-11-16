@@ -1,8 +1,8 @@
-# Analysis of CitiBank Bikesharing in New York
+# Analysis of CitiBike Bikesharing in New York
 
 Background:
 
-The purpose of this analysis is to understand how a bikeshare business works in New York City and whether it would be a good business idea to start one in Des Moines. 
+The purpose of this analysis is to understand how a bikeshare business, CitiBike, works in New York City and whether it would be a good business idea to start one in Des Moines. 
 
 Results:
 [link to dashboard](https://public.tableau.com/views/Challenge14_16367648008540/GenderofRiders?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
