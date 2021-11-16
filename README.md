@@ -1,10 +1,8 @@
 # bikesharing
 
 Background:
-Last summer I visited New York City with my friend Kate. We used the bikesharing platform Citibike to visit many historic landmarks and interact better with the city and people who lived there. Kate and I are now discussing starting up a similar bikeshare business in our hometown of Des Moines, Ioha. Kate has an angel investor who is interested in providing seat funding to explore a bikeshare program in Des Moines.
 
-Purpose:
-The purpose of this analysis is to understand how a bikeshare business works in New York City and how it may work in Des Moines. My task it to figure out how opening a bikeshare program in Des Moines may work and to convince investors that this is a solid business proposal.
+The purpose of this analysis is to understand how a bikeshare business works in New York City and whether it would be a good business idea to start one in Des Moines. 
 
 Results:
 [link to dashboard](https://public.tableau.com/views/Challenge14_16367648008540/GenderofRiders?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
